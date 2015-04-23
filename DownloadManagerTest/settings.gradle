@@ -1,1 +1,1 @@
-include ':DownloadManagerTest'
+include ':app'
